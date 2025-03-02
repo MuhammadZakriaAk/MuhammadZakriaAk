@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm <a href="https://github.com/MuhammadZakriaAk" target="blank">
-Muhammad</a></h1>
+<h1 align="center">Hi 👋, I'm Muhammad</h1>
 <h3 align="center">A Front-end web developer from Damascus, Syria &#127470;&#127475</h3>
 <br></br>
 
