@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad</h1>
-<h3 align="center">A Front-end web developer from Damascus, Syria &#127470;&#127475</h3>
+<h3 align="center">A Front-end web developer from Damascus, Syria</h3>
 <br></br>
 
 <a target="_blank" align="center">
